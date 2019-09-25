@@ -7,4 +7,5 @@ I installed JDK and Eclipse.
 
 *Run cli.java.
 
+<img width="1144" alt="image" src="https://user-images.githubusercontent.com/51940857/65562489-a6114380-df14-11e9-8ad9-104665f159f3.png">
 
